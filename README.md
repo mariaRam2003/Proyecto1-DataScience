@@ -2,6 +2,9 @@
  Proyecto 1 del curso Data Science 2024
 
  Para este proyecto, se llevó a cabo un proceso exhaustivo de limpieza de datos provenientes de varios archivos. La información depurada corresponde a las escuelas de nivel diversificado en todo el país, asegurando la calidad y coherencia de los datos.
+ 
+## Link al repositoria
+* [Link al repositorio](https://github.com/mariaRam2003/Proyecto1-DataScience/tree/main)
 
 ## Archivo de limpieza de datos
 * La limpieza de datos se llevo a cabo en el archivo `EDA.ipynb`
